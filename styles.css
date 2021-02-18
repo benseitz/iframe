@@ -1,0 +1,17 @@
+header {
+    position: static;
+    background-color: black;
+    height: 100px;
+    top: 0;
+}
+
+main iframe {
+    background-color: gray;
+}
+
+footer {
+    position: static;
+    background-color: black;
+    height: 100px;
+    bottom: 0;
+}
